@@ -1,0 +1,1 @@
+input을 대신해서 sys.stdin.readline()을 사용함.
